@@ -1,0 +1,36 @@
+{
+    "normal_map": {
+        "height_scale": 1.0,
+        "intensity": 1.0,
+        "level": 1.5,
+        "blur_sharp": "sharp",
+        "invert": false
+    },
+    "roughness_map": {
+        "invert": true,
+        "contrast": 1.5,
+        "intensity": 1.2,
+        "blur_sharp": "blur"
+    },
+    "occlusion_map": {
+        "invert": true,
+        "strength": 0.8,
+        "blur_sharp": "sharp",
+        "intensity": 1.0
+    },
+    "metallic_map": {
+        "default_value": 0.0,
+        "intensity": 1.0,
+        "mask": null
+    },
+    "emission_map": {
+        "default_color": [0, 0, 0],
+        "intensity": 1.0,
+        "mask": null
+    },
+    "alpha_map": {
+        "default_value": 1.0,
+        "opacity": 0.5,
+        "mask": null
+    }
+}
